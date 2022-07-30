@@ -33,10 +33,16 @@
   <p> <a href="https://radoslavatanasov1.github.io/portfolio/"><img src="https://github.com/radoslavatanasov1/radoslavatanasov1/blob/main/1.png?raw=true"></a> </p>
   ---
   
+  <h3 align="left">Projects: </h3>
+    https://radoslavatanasov1.github.io/Web-Face-Mask-Detection/
+    <h4> Face Mask Detection with js and Tensorflow</h4>
+  
+  
+  
   
   <br />
   <br />
-
+   ---
    <a>GitHub Stats:</a>
 
   [![MYY GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslavatanasov1&show_icons=true&theme=radical)](https://github.com/radoslavatanasov1)
