@@ -36,8 +36,12 @@
   <h3 align="left">Projects: </h3>
     https://radoslavatanasov1.github.io/Web-Face-Mask-Detection/
     <h4> Face Mask Detection with js and Tensorflow</h4>
-  
-  
+  ---
+   <h3 align="left">Projects: </h3>
+   https://radoslavatanasov1.github.io/EGN-Generator
+   <h4> Bulgarian Personal Number Generator</h4>
+   <p> <a href="https://radoslavatanasov1.github.io/EGN-Generator/"><img src="https://raw.githubusercontent.com/radoslavatanasov1/EGN-Generator/master/website.png"></a> </p>
+
   
   
   <br />
