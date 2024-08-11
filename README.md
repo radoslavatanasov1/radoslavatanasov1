@@ -43,11 +43,23 @@ I am a Full time Student  with over 3 years of experience in frontend and blockc
 
 ---
 
-### 🌟 Latest Project
-Check out my latest project:  
-**[Web3 Buy Me a Cookie](https://web3buymecookie.vercel.app/)**
+### 🌟 Latest Projects
 
 ---
+
+#### **[Web3 Buy Me a Cookie](https://web3buymecookie.vercel.app/)**
+
+A decentralized application where users can support creators by buying them cookies using cryptocurrency. The project showcases seamless integration of Web3 technologies with modern frontend frameworks.
+
+**Tech Stack:**
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Thirdweb Web3](https://img.shields.io/badge/-Thirdweb%20Web3-ff3e00?style=flat-square&logo=web3-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+
+---
+
 
 ### 📊 GitHub Stats
 
