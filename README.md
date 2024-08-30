@@ -48,7 +48,7 @@ I am a Full time Student  with over 3 years of experience in frontend and blockc
 
 ---
 
-#### **[Web3 Buy Me a Cookie](https://web3buymecookie.vercel.app/)**
+#### **[Web3 Buy Me a Cookie](https://buymeacookie.walls.agency/)**
 
 A decentralized application where users can support creators by buying them cookies using cryptocurrency. The project showcases seamless integration of Web3 technologies with modern frontend frameworks.
 
