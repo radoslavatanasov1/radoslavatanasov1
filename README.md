@@ -2,8 +2,7 @@
 
 ### Frontend & Student
 
-I am a Full time Student  with over 3 years of experience in frontend. I've had the pleasure of building various websites.
-
+Hey there! I'm R A, a passionate Frontend Developer with 3+ years of experience crafting engaging, high-performance websites. Whether it's building sleek UIs with Vue.js or optimizing styles with Tailwind CSS, I love turning ideas into interactive web experiences
 ---
 
 ### 🛠️ Stacks/Skills
@@ -25,6 +24,18 @@ I am a Full time Student  with over 3 years of experience in frontend. I've had 
 
 ---
 
+## 🚀 Featured Projects  
+
+### 🏢 Walls Agency  
+A **web development agency** website showcasing services and past projects. Built with **Vue.js, Tailwind CSS, and Vercel** for fast performance and a sleek UI.  
+🔗 **Live Demo:** [Walls Agency](https://wallsagency-radoslavatanasov1s-projects.vercel.app/)  
+
+### 🎨 Personal Portfolio  
+My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
+🔗 **Live Demo:** [radoslav.site](https://radoslav.site/)  
+
+
+---
 
 
 ### 📊 GitHub Stats
@@ -37,4 +48,6 @@ I am a Full time Student  with over 3 years of experience in frontend. I've had 
 
 ---
 
-Feel free to reach out to me  [Portfolio](https://radoslav.site/).
+📩 **Let's Connect!**  
+📧 [Email Me](mailto:contact@devdone.io)  
+🌍 [Portfolio](https://radoslav.site/)  
