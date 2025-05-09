@@ -34,6 +34,13 @@ A **web development agency** website showcasing services and past projects. Buil
 My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
 🔗 **Live Demo:** [radoslav.site](https://radoslav.site/)  
 
+### 💼 Gencoders.digital  
+A **digital agency** website offering services in realtors leads.  
+🔗 **Live Demo:** [gencoders.digital](https://gencoders.digital)  
+
+### 🧾 Simple VAT Checker  
+A **VAT number validation tool** that allows users to check UK VAT corps risk level for vat claims. The application provides a straightforward interface for checking the validity of VAT numbers, ensuring compliance and accuracy in business transactions.  
+🔗 **Live Demo:** [simplevatchecker.uk](https://simplevatchecker.uk)  
 
 ---
 
