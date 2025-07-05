@@ -42,6 +42,11 @@ A **digital agency** website offering services in realtors leads.
 A **VAT number validation tool** that allows users to check UK VAT corps risk level for vat claims. The application provides a straightforward interface for checking the validity of VAT numbers, ensuring compliance and accuracy in business transactions.  
 🔗 **Live Demo:** [simplevatchecker.uk](https://simplevatchecker.uk)  
 
+### 🧪 ViraChemical  
+A **secure chemical management system** built with **Next.js, TypeScript, Prisma, Tailwindcss, Shadcn UI and  Redis caching**.  
+Features include user authentication, role-based access control, product/order management, security protections (XSS, CSRF, SQL injection), and admin Redis monitoring endpoints.  
+🔗 **Live Demo:** [Virachemical](https://virachemical.com)
+
 ---
 
 
