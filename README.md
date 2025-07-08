@@ -23,31 +23,35 @@ Hey there! I'm R A, a passionate Frontend Developer with 3+ years of experience 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects  
-
-### 🏢 Walls Agency  
-A **web development agency** website showcasing services and past projects. Built with **Vue.js, Tailwind CSS, and Vercel** for fast performance and a sleek UI.  
-🔗 **Live Demo:** [Walls Agency](https://wallsagency-radoslavatanasov1s-projects.vercel.app/)  
 
 ### 🎨 Personal Portfolio  
 My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
 🔗 **Live Demo:** [radoslav.site](https://radoslav.site/)  
 
+### 🏦 Heritage Cayman Bank  
+A **simulated banking platform** built with **PostgreSQL, Next.js, Framer Motion, and Tailwind CSS**.  
+Offers an immersive experience emulating online banking interfaces with smooth animations and responsive design.  
+🔗 **Live Demo:** [Heritage Cayman Bank](https://hltd.vercel.app/)  
+
+### 🧪 ViraChemical  
+A **secure chemical management system** built with **Next.js, TypeScript, Prisma, Tailwind CSS, Shadcn UI, and Redis caching**.  
+Features include user authentication, role-based access control, product/order management, security protections (XSS, CSRF, SQL injection), and admin Redis monitoring endpoints.  
+🔗 **Live Demo:** [Virachemical](https://virachemical.com)  
+
+### 🧾 Simple VAT Checker  
+A **VAT number validation tool** that allows users to check UK VAT corps' risk level for VAT claims.  
+It provides a straightforward interface for checking the validity of VAT numbers, ensuring compliance and accuracy in business transactions.  
+🔗 **Live Demo:** [simplevatchecker.uk](https://simplevatchecker.uk)  
+
 ### 💼 Gencoders.digital  
 A **digital agency** website offering services in realtors leads.  
 🔗 **Live Demo:** [gencoders.digital](https://gencoders.digital)  
 
-### 🧾 Simple VAT Checker  
-A **VAT number validation tool** that allows users to check UK VAT corps risk level for vat claims. The application provides a straightforward interface for checking the validity of VAT numbers, ensuring compliance and accuracy in business transactions.  
-🔗 **Live Demo:** [simplevatchecker.uk](https://simplevatchecker.uk)  
+### 🏢 Walls Agency  
+A **web development agency** website showcasing services and past projects. Built with **Vue.js, Tailwind CSS, and Vercel** for fast performance and a sleek UI.  
+🔗 **Live Demo:** [Walls Agency](https://wallsagency-radoslavatanasov1s-projects.vercel.app/)  
 
-### 🧪 ViraChemical  
-A **secure chemical management system** built with **Next.js, TypeScript, Prisma, Tailwindcss, Shadcn UI and  Redis caching**.  
-Features include user authentication, role-based access control, product/order management, security protections (XSS, CSRF, SQL injection), and admin Redis monitoring endpoints.  
-🔗 **Live Demo:** [Virachemical](https://virachemical.com)
-
----
 
 
 ### 📊 GitHub Stats
