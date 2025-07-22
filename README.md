@@ -29,6 +29,11 @@ Hey there! I'm R A, a passionate Frontend Developer with 3+ years of experience 
 My **personal portfolio** to showcase my skills, projects, and experience. Designed with **modern UI principles** and deployed on Vercel.  
 🔗 **Live Demo:** [radoslav.site](https://radoslav.site/)  
 
+### 🌐 Global Bank Guarantee  
+A **Tier-1 bank guarantees, SBLCs, and LC** built with **Next.js, Framer Motion, Tailwind CSS & Vercel Hosting**.  
+Offers an immersive experience emulating online banking Tier-1 bank guarantees, SBLCs, and Letters of Credit with smooth animations and responsive design.  
+🔗 **Live Demo:** [Global Bank Guarantee](https://gbg-rho.vercel.app/)  
+
 ### 🏦 Heritage Cayman Bank  
 A **simulated banking platform** built with **PostgreSQL, Next.js, Framer Motion, and Tailwind CSS**.  
 Offers an immersive experience emulating online banking interfaces with smooth animations and responsive design.  
